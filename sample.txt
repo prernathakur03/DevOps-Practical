@@ -1,1 +1,2 @@
 This is my first Git practical
+This feature was added in feature branch.
